@@ -1,17 +1,14 @@
 import './App.css';
 import React from 'react';
+import { BrowserRouter as Router, Route, NavLink } from "react-router-dom";
 import Main from './Temple/main';
 
 function App() {
   return (
     <React.Fragment>
-      <div>
-        <header>
-          <div>
-            <Main />
-          </div>
-        </header>
-      </div>
+      <Router>
+          <Route path="/" component={Main} exact={true} strict></Route>
+          </Router> 
     </React.Fragment>
   );
 }
