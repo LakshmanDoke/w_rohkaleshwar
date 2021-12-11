@@ -8,15 +8,15 @@ function ContactUs() {
 
                             <div className="section-title">
                                 <h2>Contact Us</h2>
-                                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                                <p>Every year mahashivratri function will happens in rohkal village.A big citizens is come into village and pray god with them happiness</p>
                             </div>
 
                             <div className="row">
 
                                 <div className="col-lg-4 col-md-6">
                                     <div className="contact-about">
-                                        <h3>Amoeba</h3>
-                                        <p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+                                        <h3>Rohkleshwar Trust</h3>
+                                        <p>The temple history are many years ago because the stachu are only one present in rohkal.</p>
                                         <div className="social-links">
                                             <a href="#" className="twitter"><i className="bi bi-twitter"></i></a>
                                             <a href="#" className="facebook"><i className="bi bi-facebook"></i></a>
@@ -30,17 +30,17 @@ function ContactUs() {
                                     <div className="info">
                                         <div>
                                             <i className="bi bi-geo-alt"></i>
-                                            <p>A108 Adam Street<br />New York, NY 535022</p>
+                                            <p>Rohkleshwar Temple<br />Rohkal,Paranda 413505.</p>
                                         </div>
 
                                         <div>
                                             <i className="bi bi-envelope"></i>
-                                            <p>info@example.com</p>
+                                            <p>rohkleshwar123@gmail.com</p>
                                         </div>
 
                                         <div>
                                             <i className="bi bi-phone"></i>
-                                            <p>+1 5589 55488 55s</p>
+                                            <p>7219144433</p>
                                         </div>
 
                                     </div>
