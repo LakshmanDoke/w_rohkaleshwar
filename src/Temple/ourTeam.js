@@ -10,9 +10,25 @@ function OurTeam() {
                                 <h2>Our Team</h2>
                                 <p>Manage the all history and date of this trust</p>
                             </div>
-
                             <div className="row gy-4">
-                                <div className="col-lg-4 col-md-6">
+                            <div className="col-lg-3 col-md-4">
+                                    <div className="member">
+                                        <img src="assets/img/team/team-4.jpg" alt="" />
+                                        <h4>laxman doke</h4>
+                                        <span>Chirman</span>
+                                        <p>
+                                            Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
+                                        </p>
+                                        <div className="social">
+                                            <a href=""><i className="bi bi-twitter"></i></a>
+                                            <a href=""><i className="bi bi-facebook"></i></a>
+                                            <a href=""><i className="bi bi-instagram"></i></a>
+                                            <a href=""><i className="bi bi-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                                <div className="col-lg-3 col-md-4">
                                     <div className="member">
                                         <img src="assets/img/team/team-1.jpg" alt="" />
                                         <h4>Dnyanu Gore</h4>
@@ -29,7 +45,7 @@ function OurTeam() {
                                     </div>
                                 </div>
 
-                                <div className="col-lg-4 col-md-6">
+                                <div className="col-lg-3 col-md-4">
                                     <div className="member">
                                         <img src="assets/img/team/team-2.jpg" alt="" />
                                         <h4>Hanu Doke</h4>
@@ -46,7 +62,7 @@ function OurTeam() {
                                     </div>
                                 </div>
 
-                                <div className="col-lg-4 col-md-6">
+                                <div className="col-lg-3 col-md-4">
                                     <div className="member">
                                         <img src="assets/img/team/team-3.jpg" alt="" />
                                         <h4>Satish Gavhane</h4>
