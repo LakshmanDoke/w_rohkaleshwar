@@ -12,7 +12,7 @@ function About() {
 
                             <div className="row">
                                 <div className="col-lg-6 order-1 order-lg-2">
-                                    <img src="assets/img/about-img.jpg" className="img-fluid" alt="" />
+                                    <img src="assets/img/about-img.jpg" height="400" width="400" className="img-fluid" alt="" />
                                 </div>
                                 <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
                                     <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
