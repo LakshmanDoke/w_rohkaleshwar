@@ -6,8 +6,8 @@ function Header() {
                     <div className="container d-flex align-items-center">
 
                         <div className="logo me-auto">
-                            <a className='shiv'><img src="https://cdn.newsnationtv.com/resize/360_-/images/2021/03/10/mahashivratri-2021-38.jpg" alt="" className="img-fluid" /></a>
-                            <h1><a href='index.html'> Rohkaleshwar Trust</a></h1>
+                            {/* <a className='shiv'><img src="https://cdn.newsnationtv.com/resize/360_-/images/2021/03/10/mahashivratri-2021-38.jpg" alt="" className="img-fluid" /></a> */}
+                            <h1 ><a href='index.html'> Rohkaleshwar Trust</a></h1>
                         </div>
 
                         <nav id="navbar" className="navbar">

@@ -19,17 +19,17 @@ function Services() {
                                 </div>
                                 <div className="col-lg-4 col-md-6 icon-box">
                                     <div className="icon"><i className="bi bi-clipboard-data"></i></div>
-                                    <h4 className="title"><a href="">Dolor Sitema</a></h4>
+                                    <h4 className="title"><a href=""></a></h4>
                                     <p className="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
                                 </div>
                                 <div className="col-lg-4 col-md-6 icon-box">
                                     <div className="icon"><i className="bi bi-globe"></i></div>
-                                    <h4 className="title"><a href="">Sed ut perspiciatis</a></h4>
+                                    <h4 className="title"><a href="">History of Rohkleshwara</a></h4>
                                     <p className="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
                                 </div>
                                 <div className="col-lg-4 col-md-6 icon-box">
                                     <div className="icon"><i className="bi bi-images"></i></div>
-                                    <h4 className="title"><a href="">Magni Dolores</a></h4>
+                                    <h4 className="title"><a href="">Temple Image</a></h4>
                                     <p className="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
                                 </div>
                                 <div className="col-lg-4 col-md-6 icon-box">
